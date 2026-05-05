@@ -25,8 +25,8 @@ Estudante de tecnologia dedicado ao desenvolvimento de soluções inteligentes e
 
 ### Estatísticas de Desenvolvimento
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MDT-G&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDT-G_USUARIO&layout=compact&theme=dark" />
 </p>
 
 ### GitHub Streak
