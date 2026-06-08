@@ -1,19 +1,16 @@
- Olá! Eu sou o Giovanni!
+## Olá, sou Giovanni;
 
-  Sobre mim
-Estudante de tecnologia dedicado ao desenvolvimento de soluções inteligentes e automação. Atualmente focado em arquitetura de dados e integração de IA. 
+Estudante de Engenharia de Software na UNICID, focado em Análise de Dados e Python.
 
--  Cursando graduação em tecnologia
--  Desenvolvedor do projeto **JARVAS**: Assistente pessoal em Python integrado com lógica de automação.
--  Focado em manipulação de estruturas de dados complexas (JSON/Bancos de Dados).
--  Interessado em otimização de processos e inteligência artificial.
+**O que estou construindo:**
+- JARVAS — sistema de gestão financeira pessoal com Python e SQLite
+- Análise de 100k+ pedidos do e-commerce Olist com Pandas
 
 ### Tecnologias & Ferramentas
 <p align="left">
   <!-- Linguagens e IA -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />  
   <!-- Banco de Dados e Estrutura -->
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
